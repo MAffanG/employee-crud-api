@@ -8,7 +8,6 @@ Built with **Java**, **Spring Boot**, **Spring MVC**, **Spring Data JPA**, and *
 ## Features <!-- Main features list -->
 - Create a new employee record
 - Retrieve all employees
-- Get a single employee by ID
 - Update existing employee details
 - Delete an employee
 - Connected to MySQL database
